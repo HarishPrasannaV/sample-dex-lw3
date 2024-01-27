@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+Token deployed to 0xa93d6D18bF9a9EB046664e77906511bA1Da129cF
+https://sepolia.etherscan.io/address/0xa93d6D18bF9a9EB046664e77906511bA1Da129cF#code
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Exhange contract deployed to 0xD493238e6d06A0fDC94D1c81c2900e9001fDE4DE
+https://sepolia.etherscan.io/address/0xD493238e6d06A0fDC94D1c81c2900e9001fDE4DE#code
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+A simple DEX project made by following LW#
